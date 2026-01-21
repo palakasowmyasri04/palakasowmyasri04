@@ -1,21 +1,12 @@
 ## Hi 👋 I’m Palaka Sowmya Sri
 
-**Detail-oriented | Consistent learner | Analytical thinker**
+Detail-oriented | Consistent learner | Analytical thinker
 
 ---
 
 ## ✨ Who Am I?
 
-I am **Palaka Sowmya Sri**, a B.Tech student in **Computer Science (AI & ML)** with a keen interest in understanding concepts deeply and applying them effectively.
-
-I value structured learning, logical thinking, and writing clear, maintainable code.  
-I believe consistent effort and strong fundamentals are key to long-term growth in technology.
-
-My focus is on disciplined learning, analytical reasoning, and writing code that is structured, readable, and purpose-driven.
-
----
-
-## 🔹 What I’m Focused On
+I am **Palaka Sowmya Sri**, a B.Tech student in **Computer Science (AI & ML)** with a keen interest in understanding concepts deeply and applying them effectively. I value structured learning, logical thinking, and writing clear, maintainable code. I believe consistent effort and strong fundamentals are key to long-term growth in technology. My focus is on disciplined learning, analytical reasoning, and writing code that is structured, readable, and purpose-driven.
 
 - 🐍 Working with **Python** and developing strong analytical problem-solving skills  
 - 🧩 Understanding fundamentals and applying concepts practically  
@@ -37,7 +28,6 @@ My focus is on disciplined learning, analytical reasoning, and writing code that
 - 💼 LinkedIn: **https://www.linkedin.com/in/palaka-sowmya-sri-955726286**
 
 ---
-
 
 ⭐ Thanks for visiting — feel free to explore.
 
